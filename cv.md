@@ -19,3 +19,25 @@ I have just started learning programming, I don't have a great desire to master 
 I do not know what I could share worth sharing in this section, but I am sure that in the near future there will be something
 
 ---------------------------------------
+## **Skills**
+
+* HTML5
+* CSS3
+* JavaScript
+* Git,Git-hub
+
+---------------------------------------
+
+## **Code examples**
+
+    function multiply(a, b){
+    console.log(a * b);
+    return a * b;
+    }
+
+---------------------------------------
+
+## **Education**
+
+incoplete higher education
+Sibirskiy Gosudarstvennyy Universitet Telekommunikatsiy I Informatiki
